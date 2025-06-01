@@ -1,4 +1,4 @@
-//SDPX-licennse-Identifier:MIT
+//SPDX-licennse-Identifier:MIT
 pragma solidity ^0.8.30;
 
 contract SouliumToken {
