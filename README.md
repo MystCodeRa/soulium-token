@@ -3,7 +3,7 @@ Solidity ile geliştirilmiş temel bir ERC20 benzeri token. Transfer ve yakma Ö
 ## Soulim Token (SLM)
 
 Soulium Token, solidity dili yazılmış basit bir ERC20 benzeri akıllı sözleşmedir. Temel transfer ve yakma (burn) 
-işlemelerini içerir.
+işlemlerini içerir.
 
 # token Bilgileri
 - Ad: Soulium
